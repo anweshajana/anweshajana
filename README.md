@@ -15,7 +15,7 @@
 
 | Project Name | Description | Tech Stack | Deployed / Repository |
 | :--- | :--- | :--- | :--- |
-| **ClinicFlow** | A portable, decentralized multi-terminal token routing system deployed in air-gapped clinical environments. | Python (Flask), SQLite3, HTML5 APIs, Batch | [Repository](#) |
+| **Token Management System** | A portable, decentralized multi-terminal token routing system deployed in air-gapped clinical environments. | Python (Flask), SQLite3, HTML5 APIs, Batch | [Repository](https://github.com/anweshajana/Token_management_system) |
 | **Physiological Data Logger** | Real-time multi-threaded physiological telemetry logger with live plotting, UDP emergency triggers, and AI summaries. | TM4C123GXL (ARM Cortex-M4), UART, Tkinter, Gemini API | [Repository](#) |
 | **ESP32 Edge Web Server** | Embedded web application serving modern frontend browser builds directly from onboard microcontroller storage. | ESP32, ESP-IDF, Angular, SPIFFS | [Repository](#) |
 | **QR Code Processing Hub** | Optical scan engine for real-time barcode decoding and synchronized data export workflows. | Python, OpenCV, pyzbar, Flask | [Repository](#) |
