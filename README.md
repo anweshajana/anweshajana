@@ -1,9 +1,9 @@
 # 🎀 About Me:
 
 🌟 **Hi, I'm Anwesha Jana!**  
-💻 **Computer Science & Engineering Student** | **Software Craftsman & Systems Builder**  
-🚀 Passionate about bridging hardware with modern software, engineering high-performance architectures, and deploying practical solutions for real-world impact.
-🌱 Currently exploring **Embedded Firmware, Flask, Angular, SQLite**, and edge computing architectures.  
+💻 **Computer Science & Engineering Student | Software Craftsman & Systems Builder**  
+🚀 Passionate about bridging hardware with modern software, engineering high-performance architectures, and deploying practical solutions for real-world impact.  
+🌱 Currently exploring **Embedded Firmware**, **Flask**, **Angular**, **SQLite**, and edge computing architectures.
 
 ### 🛠️ My Interests:
 - ⚡ **Embedded Systems & IoT**: Developing firmware on ARM Cortex-M4 (TM4C123GXL) and ESP32 platforms.  
