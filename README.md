@@ -1,72 +1,58 @@
 # 🎀 About Me:
 
 🌟 **Hi, I'm Anwesha Jana!**  
-💻 **Computer Science & Engineering Student | Embedded Systems & Full-Stack Developer**  
+💻 **Computer Science & Engineering Student** | **Embedded Systems & Full-Stack Developer**  
 🚀 Passionate about building robust edge solutions, real-time data pipelines, and responsive web applications.  
-🌱 Currently developing low-latency embedded firmware, on-premise edge computing systems, and intelligent desktop utilities.
+🌱 Currently exploring **Embedded Firmware, Flask, Angular, SQLite**, and edge computing architectures.  
 
----
+### 🛠️ My Interests:
+- ⚡ **Embedded Systems & IoT**: Developing firmware on ARM Cortex-M4 (TM4C123GXL) and ESP32 platforms.  
+- 🌐 **Full-Stack Development**: Crafting responsive dashboards and control consoles with Flask, Angular, and MySQL.  
+- 🖥️ **Desktop & Edge Utilities**: Engineering isolated, zero-dependency standalone applications in Python and Tkinter.  
+- 👁️ **Applied Vision & NLP**: Exploring real-time computer vision (OpenCV, YOLO) and natural language text processing.  
 
-### 🛠️ Core Interests
+### ✅ Completed Projects
 
-* ⚡ **Embedded Systems & IoT:** Developing firmware on ARM Cortex-M4 (TM4C123GXL) and ESP32 with low-level UART, UDP, and SPIFFS protocols.
-* 🌐 **Full-Stack Web Development:** Engineering responsive web consoles and dynamic services using Python Flask, Angular, MySQL, and SQLite.
-* 🖥️ **Edge & Desktop Software:** Building isolated, zero-dependency desktop applications using Tkinter and automated PyInstaller build pipelines.
-* 👁️ **Applied Vision & NLP:** Exploring computer vision pipelines (OpenCV, YOLO) and natural language text processing models.
-
----
-
-### ✅ Highlighted Projects
-
-| Project Name | Description | Tech Stack | Link / Scope |
+| Project Name | Description | Tech Stack | Deployed / Repository |
 | :--- | :--- | :--- | :--- |
-| **ClinicFlow** | A portable, decentralized multi-terminal queue routing system deployed in air-gapped clinical environments. | Python (Flask), SQLite3, HTML5 APIs, Batch | [GitHub Repository](https://github.com/your-github-username/ClinicFlow) |
-| **Physiological Data Logger** | Real-time multi-threaded biomedical telemetry logger with live plotting, UDP emergency triggers, and AI summaries. | TM4C123GXL (ARM Cortex-M4), UART, Tkinter, Gemini API | [GitHub Repository](https://github.com/your-github-username) |
-| **ESP32 Edge Web Server** | Embedded web application serving modern frontend browser builds directly from onboard microcontroller storage. | ESP32, ESP-IDF, Angular, SPIFFS | [GitHub Repository](https://github.com/your-github-username) |
-| **QR Code Processing Hub** | Optical scan engine for real-time barcode decoding and synchronized data export workflows. | Python, OpenCV, pyzbar, Flask | [GitHub Repository](https://github.com/your-github-username) |
+| **ClinicFlow** | A portable, decentralized multi-terminal token routing system deployed in air-gapped clinical environments. | Python (Flask), SQLite3, HTML5 APIs, Batch | [Repository](#) |
+| **Physiological Data Logger** | Real-time multi-threaded physiological telemetry logger with live plotting, UDP emergency triggers, and AI summaries. | TM4C123GXL (ARM Cortex-M4), UART, Tkinter, Gemini API | [Repository](#) |
+| **ESP32 Edge Web Server** | Embedded web application serving modern frontend browser builds directly from onboard microcontroller storage. | ESP32, ESP-IDF, Angular, SPIFFS | [Repository](#) |
+| **QR Code Processing Hub** | Optical scan engine for real-time barcode decoding and synchronized data export workflows. | Python, OpenCV, pyzbar, Flask | [Repository](#) |
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5EF723&width=800&lines=%F0%9F%92%A1Engineering+low-latency+systems+and+real-time+solutions!)](https://git.io/typing-svg)
+
+### 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/your-github-username) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ### 💻 Tech Stack
 
-**Languages & Frameworks:**  
-`C` `C++` `Python` `Flask` `Angular` `JavaScript` `HTML5` `CSS3` `SQL`
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405E.svg?style=plastic&logo=sqlite&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
 
-**Embedded & Hardware:**  
-`ARM Cortex-M4 (TM4C123GXL)` `ESP32` `ESP-IDF` `CCS Theia` `UART / UDP`
-
-**Libraries & Developer Tools:**  
-`SQLite3` `MySQL` `OpenCV` `Tkinter` `PyInstaller` `Git` `LaTeX`
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
-### 🌐 Socials & Connect
-
-<p align="left">
-  <a href="https://github.com/your-github-username">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
+### 📊 GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=your-github-username&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=your-github-username&icon=0&color=0)](https://visitcount.itsvg.in)
