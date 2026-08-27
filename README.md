@@ -1,8 +1,8 @@
 # 🎀 About Me:
 
 🌟 **Hi, I'm Anwesha Jana!**  
-💻 **Computer Science & Engineering Student** | **Embedded Systems & Full-Stack Developer**  
-🚀 Passionate about building robust edge solutions, real-time data pipelines, and responsive web applications.  
+💻 **Computer Science & Engineering Student** | **Software Craftsman & Systems Builder**  
+🚀 Passionate about bridging hardware with modern software, engineering high-performance architectures, and deploying practical solutions for real-world impact.
 🌱 Currently exploring **Embedded Firmware, Flask, Angular, SQLite**, and edge computing architectures.  
 
 ### 🛠️ My Interests:
