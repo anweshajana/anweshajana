@@ -47,5 +47,8 @@
 ### 💡 Engineering Mindset
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" alt="Engineering Quote Card" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Every%20great%20developer%20you%20know%20got%20there%20by%20solving%20problems%20they%20were%20unqualified%20to%20solve%20until%20they%20actually%20did%20it.&author=Patrick%20McKenzie" alt="Custom Dev Quote" width="100%"/>
 </p>
+
+---
+[![](https://visitcount.itsvg.in/api?id=your-github-username&icon=0&color=0)](https://visitcount.itsvg.in)
