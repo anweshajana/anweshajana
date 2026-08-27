@@ -46,8 +46,6 @@
 
 ### 💡 Engineering Mindset
 
-> *"First, solve the problem. Then, write the code."*  
-> — **John Johnson**
-
----
-[![](https://visitcount.itsvg.in/api?id=your-github-username&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" alt="Engineering Quote Card" width="100%" />
+</p>
