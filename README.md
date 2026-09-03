@@ -17,7 +17,6 @@
 | :--- | :--- | :--- | :--- |
 | **Token Management System** | A portable, decentralized multi-terminal token routing system deployed in air-gapped clinical environments. | Python (Flask), SQLite3, HTML5 APIs, Batch | [Repository](https://github.com/anweshajana/Token_management_system) |
 | **Data Logging System for Physiological Parameters** | Real-time multi-threaded physiological telemetry logger with live plotting, UDP emergency triggers, and AI summaries. | TM4C123GXL (ARM Cortex-M4), UART, Tkinter, Gemini API | [Repository](https://github.com/anweshajana/Data_Logging_System_for_Physiological_Parameters) |
-| **QR Code Processing Hub** | Optical scan engine for real-time barcode decoding and synchronized data export workflows. | Python, OpenCV, pyzbar, Flask | [Repository](#) |
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=💻+Computer+Science+%26+Engineering+Enthusiast;⚡+Bridging+Low-Level+Hardware+with+Modern+Software;🧠+Exploring+Machine+Learning,+NLP+%26+Computer+Vision;🌐+Architecting+Scalable+Full-Stack+%26+Cloud+Solutions;🎯+Turning+Complex+Algorithms+into+Impactful+Software)](https://git.io/typing-svg)
 
